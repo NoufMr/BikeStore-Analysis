@@ -25,5 +25,5 @@ After step 2, I create new workbook and connect the entire excel workbook to the
 Then create an interactive Excel dashboard using pivot tables, custom formatting, dynamic charts, filter buttons, and slicers.
 #### - Snapshot Of The Dashoboard
 <p align="center">
-<img src="https://github.com/NoufMr/BikeStore-Analysis/assets/134384114/faf93ebf-cf41-4c0d-8b3f-4f51950692cf" width="1000" height="450" />
+<img src="https://github.com/NoufMr/BikeStore-Analysis/assets/134384114/faf93ebf-cf41-4c0d-8b3f-4f51950692cf" width="1000" height="430" />
 </p>
